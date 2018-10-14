@@ -1,4 +1,4 @@
-Find the absolute difference between the sum of the squares of the first N natural numbers and the square of the sum.
+Considering the terms in the <b>Fibonacci sequence</b> whose values do not exceed N, find the sum of the even-valued terms.
 
 #### Input Format
 
@@ -10,20 +10,19 @@ First line contains <b>T</b> that denotes the number of test cases. This is foll
 Print the required answer for each test case.
 
 #### CONSTRAINTS
-1≤ T ≤ 10^4
+1≤ T ≤ 10^5
 
-1≤ N ≤ 10^4
+10≤ N ≤ 4*10^16
 
 #### Sample Input 
 ```
 2
-3
 10
+100
 ```
 
 #### Sample Output 
 ```
-22
-2640
+10
+44
 ```
-

@@ -1,4 +1,4 @@
-Find the absolute difference between the sum of the squares of the first N natural numbers and the square of the sum.
+Find the sum of the digits in the number N!
 
 #### Input Format
 
@@ -10,20 +10,19 @@ First line contains <b>T</b> that denotes the number of test cases. This is foll
 Print the required answer for each test case.
 
 #### CONSTRAINTS
-1≤ T ≤ 10^4
+1≤ T ≤ 100
 
-1≤ N ≤ 10^4
+0≤ N ≤ 1000
 
 #### Sample Input 
 ```
 2
 3
-10
+6
 ```
 
 #### Sample Output 
 ```
-22
-2640
+6
+9
 ```
-
